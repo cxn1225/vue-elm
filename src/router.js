@@ -73,7 +73,7 @@ export default new Router({
       name: 'login',
       component: () => import('./components/login/login.vue')
     },
-    //ldf
+      
     {
       path: '/clickcity',
       name: 'clickcity',
@@ -128,7 +128,7 @@ export default new Router({
       //懒加载
       component: () => import('./page/pay/Search.vue')
     },
-    //ryc
+
     {
       path: "/profile",
       name: "profile",
