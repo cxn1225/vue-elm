@@ -28,13 +28,13 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-* 风行-配电运维页面示例
+1. 风行-配电运维页面示例
 - 报警
 - 巡检
 - 运维方案
-* 企业级开发平台页面示例
+2. 企业级开发平台页面示例
 - Projectman 页面
 - 列表页面
 - 表单页面
-* 工业互联网页面实例
+3. 工业互联网页面实例
 - Workspace 页面
